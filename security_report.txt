@@ -1,0 +1,26 @@
+CYBERSECURITY LOG ANALYSIS REPORT
+========================================
+
+Total Events: 10
+Successful Logins: 4
+Failed Logins: 6
+Suspicious Events: 1
+High-Risk Events: 0
+
+IP ANALYSIS
+-------------------------
+192.168.1.10 | Activity: 1 | Failed Logins: 0
+192.168.1.11 | Activity: 1 | Failed Logins: 0
+192.168.1.12 | Activity: 1 | Failed Logins: 0
+192.168.1.20 | Activity: 5 | Failed Logins: 5
+192.168.1.30 | Activity: 1 | Failed Logins: 0
+192.168.1.31 | Activity: 1 | Failed Logins: 1
+
+Top Suspicious IPs
+-------------------------
+192.168.1.20 | Suspicious | Failed Logins: 5
+
+Most Targeted Users
+-------------------------
+admin: 5 failed logins
+sara: 1 failed logins
